@@ -1,3 +1,4 @@
+
 .header li{
   list-style:none;
   float:left;
@@ -9,7 +10,7 @@
 .header-logo{
   color: #009933;
   float:left;
-  font-size: 34px;
+  font-size: 40px;
   padding:20px 40px;
 }
 .header-list{
@@ -22,10 +23,22 @@
 }
 h1{
   color:#0099FF;
+  text-align:center;
+  font-size:35px;
 
 }
 h2{
   color:#00cc00;
+  text-align:center;
+}
+.main{
+    max-width:50%;
+    margin:0 auto;
+}
+div{text-align:center;}
+.contents p{
+    font-size: 20px;
+    text-align: center;
 }
 span{
   background-color: #00cc00;
